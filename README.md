@@ -67,7 +67,7 @@ jupyter notebook
 📬 **Let’s Connect:**
 - 📸 Instagram: [vincensiuselang](https://instagram.com/vincensiuselang)
 - 🎥 TikTok: [Vintec69](https://www.tiktok.com/@vintec69)
-- 📺 YouTube: [Formylife](https://www.youtube.com/@formylife)
+- 📺 YouTube: [Formylife](https://www.youtube.com/@4mylifee)
 
 Thanks for checking out my project! 💜
 
