@@ -25,8 +25,8 @@ In this project, we dive deep into:
 📂 practice-knn-regression-california-housing
 │
 ├── 📊 eda.ipynb                     # Exploratory Data Analysis
-├── 🧠 knn_regression.ipynb          # KNN Model Training
-├── 🌳 random_forest_regression.ipynb # Random Forest Model
+├── 🧠 knn_regression.ipynb          # KNN Model Training model
+├── 🌳 random_forest_regression.ipynb # Random Forest Training model
 ├── 📜 README.md                     # Project Documentation
 ```
 
